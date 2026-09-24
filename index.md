@@ -9,7 +9,7 @@
 
 # Política de Privacidade — Damas Evolution
 
-**Última atualização:** 23 de setembro de 2026
+**Última atualização:** 24 de setembro de 2026
 
 Esta Política de Privacidade descreve como o aplicativo **Damas Evolution** ("app", "nós"), desenvolvido por **Leankar.dev** ("Desenvolvedor"), trata as informações dos usuários. Ao usar o app, você concorda com esta política.
 
@@ -36,7 +36,7 @@ Esses dados **nunca saem do seu dispositivo** e não são acessíveis ao Desenvo
 
 ## 4. Permissões
 
-O app não solicita nenhuma permissão sensível do Android (como câmera, microfone, localização, contatos ou armazenamento externo). O app não requer acesso à internet para jogar.
+O app não solicita nenhuma permissão sensível do Android ou do Windows (como câmera, microfone, localização, contatos ou armazenamento externo). O app não requer acesso à internet para jogar.
 
 ## 5. Links externos
 
@@ -52,7 +52,10 @@ Como os dados permanecem no dispositivo, a segurança deles depende das proteç�
 
 ## 8. Seus direitos e exclusão de dados
 
-Você pode apagar todos os dados do app a qualquer momento, limpando o armazenamento do app nas configurações do Android (Configurações > Apps > Damas Evolution > Armazenamento > Limpar dados) ou desinstalando o aplicativo. Como não mantemos dados em servidores, não há nada a ser excluído do nosso lado.
+Você pode apagar todos os dados do app a qualquer momento. Como não mantemos dados em servidores, não há nada a ser excluído do nosso lado.
+
+- **Android:** limpe o armazenamento do app (Configurações > Apps > Damas Evolution > Armazenamento > Limpar dados) ou desinstale o aplicativo.
+- **Windows:** desinstalar o aplicativo não remove os dados locais. Para apagá-los, exclua o arquivo `damas_evolution.sqlite` da sua pasta Documentos e a pasta `%APPDATA%\dev.leankar\damas_evolution`.
 
 ## 9. Alterações nesta política
 
@@ -68,7 +71,7 @@ Dúvidas sobre esta política: **leankar.dev@gmail.com** · https://leankar.dev
 
 # Privacy Policy — Damas Evolution
 
-**Last updated:** September 23, 2026
+**Last updated:** September 24, 2026
 
 This Privacy Policy describes how the **Damas Evolution** app ("app", "we"), developed by **Leankar.dev** ("Developer"), handles user information. By using the app, you agree to this policy.
 
@@ -95,7 +98,7 @@ This data **never leaves your device** and is not accessible to the Developer.
 
 ## 4. Permissions
 
-The app does not request any sensitive Android permission (such as camera, microphone, location, contacts or external storage). The app does not require internet access to be played.
+The app does not request any sensitive Android or Windows permission (such as camera, microphone, location, contacts or external storage). The app does not require internet access to be played.
 
 ## 5. External links
 
@@ -111,7 +114,10 @@ Because data remains on the device, its security depends on the device's own pro
 
 ## 8. Your rights and data deletion
 
-You can delete all app data at any time by clearing the app's storage in Android settings (Settings > Apps > Damas Evolution > Storage > Clear data) or by uninstalling the app. Since we keep no data on servers, there is nothing to delete on our side.
+You can delete all app data at any time. Since we keep no data on servers, there is nothing to delete on our side.
+
+- **Android:** clear the app's storage (Settings > Apps > Damas Evolution > Storage > Clear data) or uninstall the app.
+- **Windows:** uninstalling the app does not remove local data. To delete it, remove the `damas_evolution.sqlite` file from your Documents folder and the `%APPDATA%\dev.leankar\damas_evolution` folder.
 
 ## 9. Changes to this policy
 
@@ -127,7 +133,7 @@ Questions about this policy: **leankar.dev@gmail.com** · https://leankar.dev
 
 # Política de Privacidad — Damas Evolution
 
-**Última actualización:** 23 de septiembre de 2026
+**Última actualización:** 24 de septiembre de 2026
 
 Esta Política de Privacidad describe cómo la aplicación **Damas Evolution** ("app", "nosotros"), desarrollada por **Leankar.dev** ("Desarrollador"), trata la información de los usuarios. Al usar la app, aceptas esta política.
 
@@ -154,7 +160,7 @@ Estos datos **nunca salen de tu dispositivo** y no son accesibles para el Desarr
 
 ## 4. Permisos
 
-La app no solicita ningún permiso sensible de Android (como cámara, micrófono, ubicación, contactos o almacenamiento externo). La app no requiere acceso a internet para jugar.
+La app no solicita ningún permiso sensible de Android ni de Windows (como cámara, micrófono, ubicación, contactos o almacenamiento externo). La app no requiere acceso a internet para jugar.
 
 ## 5. Enlaces externos
 
@@ -170,7 +176,10 @@ Como los datos permanecen en el dispositivo, su seguridad depende de las protecc
 
 ## 8. Tus derechos y eliminación de datos
 
-Puedes borrar todos los datos de la app en cualquier momento limpiando el almacenamiento de la app en los ajustes de Android (Ajustes > Aplicaciones > Damas Evolution > Almacenamiento > Borrar datos) o desinstalando la aplicación. Como no mantenemos datos en servidores, no hay nada que eliminar de nuestro lado.
+Puedes borrar todos los datos de la app en cualquier momento. Como no mantenemos datos en servidores, no hay nada que eliminar de nuestro lado.
+
+- **Android:** borra el almacenamiento de la app (Ajustes > Aplicaciones > Damas Evolution > Almacenamiento > Borrar datos) o desinstala la aplicación.
+- **Windows:** desinstalar la aplicación no elimina los datos locales. Para borrarlos, elimina el archivo `damas_evolution.sqlite` de tu carpeta Documentos y la carpeta `%APPDATA%\dev.leankar\damas_evolution`.
 
 ## 9. Cambios en esta política
 
@@ -186,7 +195,7 @@ Dudas sobre esta política: **leankar.dev@gmail.com** · https://leankar.dev
 
 # Informativa sulla Privacy — Damas Evolution
 
-**Ultimo aggiornamento:** 23 settembre 2026
+**Ultimo aggiornamento:** 24 settembre 2026
 
 Questa Informativa sulla Privacy descrive come l'app **Damas Evolution** ("app", "noi"), sviluppata da **Leankar.dev** ("Sviluppatore"), tratta le informazioni degli utenti. Utilizzando l'app, accetti questa informativa.
 
@@ -213,7 +222,7 @@ Questi dati **non lasciano mai il tuo dispositivo** e non sono accessibili allo 
 
 ## 4. Autorizzazioni
 
-L'app non richiede alcuna autorizzazione sensibile di Android (come fotocamera, microfono, posizione, contatti o archiviazione esterna). L'app non richiede l'accesso a internet per giocare.
+L'app non richiede alcuna autorizzazione sensibile di Android o di Windows (come fotocamera, microfono, posizione, contatti o archiviazione esterna). L'app non richiede l'accesso a internet per giocare.
 
 ## 5. Link esterni
 
@@ -229,7 +238,10 @@ Poiché i dati restano sul dispositivo, la loro sicurezza dipende dalle protezio
 
 ## 8. I tuoi diritti e la cancellazione dei dati
 
-Puoi eliminare tutti i dati dell'app in qualsiasi momento cancellando l'archiviazione dell'app nelle impostazioni di Android (Impostazioni > App > Damas Evolution > Archiviazione > Cancella dati) oppure disinstallando l'app. Poiché non conserviamo dati sui server, non c'è nulla da eliminare da parte nostra.
+Puoi eliminare tutti i dati dell'app in qualsiasi momento. Poiché non conserviamo dati sui server, non c'è nulla da eliminare da parte nostra.
+
+- **Android:** cancella l'archiviazione dell'app (Impostazioni > App > Damas Evolution > Archiviazione > Cancella dati) oppure disinstalla l'app.
+- **Windows:** la disinstallazione dell'app non rimuove i dati locali. Per eliminarli, rimuovi il file `damas_evolution.sqlite` dalla cartella Documenti e la cartella `%APPDATA%\dev.leankar\damas_evolution`.
 
 ## 9. Modifiche a questa informativa
 
@@ -245,7 +257,7 @@ Domande su questa informativa: **leankar.dev@gmail.com** · https://leankar.dev
 
 # Politique de Confidentialité — Damas Evolution
 
-**Dernière mise à jour :** 23 septembre 2026
+**Dernière mise à jour :** 24 septembre 2026
 
 Cette Politique de Confidentialité décrit comment l'application **Damas Evolution** (« app », « nous »), développée par **Leankar.dev** (« Développeur »), traite les informations des utilisateurs. En utilisant l'app, vous acceptez cette politique.
 
@@ -272,7 +284,7 @@ Ces données **ne quittent jamais votre appareil** et ne sont pas accessibles au
 
 ## 4. Autorisations
 
-L'app ne demande aucune autorisation sensible d'Android (comme l'appareil photo, le microphone, la localisation, les contacts ou le stockage externe). L'app ne nécessite pas d'accès à Internet pour jouer.
+L'app ne demande aucune autorisation sensible d'Android ni de Windows (comme l'appareil photo, le microphone, la localisation, les contacts ou le stockage externe). L'app ne nécessite pas d'accès à Internet pour jouer.
 
 ## 5. Liens externes
 
@@ -288,7 +300,10 @@ Les données restant sur l'appareil, leur sécurité dépend des protections de 
 
 ## 8. Vos droits et suppression des données
 
-Vous pouvez supprimer toutes les données de l'app à tout moment en effaçant le stockage de l'app dans les paramètres d'Android (Paramètres > Applications > Damas Evolution > Stockage > Effacer les données) ou en désinstallant l'application. Comme nous ne conservons aucune donnée sur des serveurs, il n'y a rien à supprimer de notre côté.
+Vous pouvez supprimer toutes les données de l'app à tout moment. Comme nous ne conservons aucune donnée sur des serveurs, il n'y a rien à supprimer de notre côté.
+
+- **Android :** effacez le stockage de l'app (Paramètres > Applications > Damas Evolution > Stockage > Effacer les données) ou désinstallez l'application.
+- **Windows :** la désinstallation de l'application ne supprime pas les données locales. Pour les effacer, supprimez le fichier `damas_evolution.sqlite` de votre dossier Documents et le dossier `%APPDATA%\dev.leankar\damas_evolution`.
 
 ## 9. Modifications de cette politique
 
