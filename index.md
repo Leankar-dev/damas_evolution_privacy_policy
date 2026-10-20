@@ -41,7 +41,7 @@ Esses dados **nunca saem do seu dispositivo** por iniciativa do Desenvolvedor e 
 
 - Os anúncios existem apenas na versão para Android. A versão para Windows não exibe anúncios.
 - Os anúncios são intermediados pelo **Unity LevelPlay** (Unity Technologies) e exibidos por redes de anúncios parceiras. O Desenvolvedor não controla a coleta feita por esses terceiros.
-- Quando os anúncios estão ativos, o app se conecta à internet e esses provedores podem coletar e tratar dados como o identificador de publicidade do Android, o endereço IP, informações do dispositivo e do sistema, e dados sobre a exibição e a interação com os anúncios (impressões e cliques). Eles usam esses dados para entregar, medir e proteger os anúncios contra fraude e, se você consentiu, para personalizá-los.
+- Quando os anúncios estão ativos, o app se conecta à internet e esses provedores podem coletar e tratar dados como o identificador de publicidade do Android, o endereço IP e a localização aproximada estimada a partir dele, informações do dispositivo e do sistema, dados de diagnóstico técnico do serviço de anúncios e dados sobre a exibição e a interação com os anúncios (impressões e cliques). Eles usam esses dados para entregar e medir os anúncios, para fins de análise, para proteger os anúncios contra fraude e garantir a segurança e, se você consentiu, para personalizá-los.
 - O tratamento feito por esses provedores segue as políticas deles. Política de privacidade da Unity (LevelPlay): https://unity.com/legal/privacy-policy
 - Anúncios podem abrir páginas de anunciantes ou lojas de aplicativos fora do app.
 
@@ -76,7 +76,7 @@ Você pode apagar todos os dados do app a qualquer momento. Como o Desenvolvedor
 
 - **Android:** limpe o armazenamento do app (Configurações > Apps > Damas Evolution > Armazenamento > Limpar dados) ou desinstale o aplicativo.
 - **Windows:** desinstalar o aplicativo não remove os dados locais. Para apagá-los, exclua o arquivo `damas_evolution.sqlite` da sua pasta Documentos e a pasta `%APPDATA%\dev.leankar\damas_evolution`.
-- **Anúncios:** retire o consentimento em Configurações > Anúncios. Para exercer direitos sobre dados que os provedores de anúncios tenham coletado (como acesso, exclusão ou oposição), consulte a política de privacidade deles (seção 4).
+- **Anúncios:** retire o consentimento em Configurações > Anúncios. Os dados coletados pelos provedores de anúncios (seção 4) não ficam com o Desenvolvedor; por isso, para pedir **acesso, exclusão ou oposição** a esses dados, use os canais de privacidade da Unity descritos em https://unity.com/legal/privacy-policy (e, para residentes nos EUA, também em https://unity.com/legal/do-not-sell-my-personal-information). Se precisar de ajuda para encontrar o canal certo, escreva para **leankar.dev@gmail.com**. Você também pode redefinir ou excluir o identificador de publicidade do seu aparelho (seção 5).
 
 ## 11. Alterações nesta política
 
@@ -124,7 +124,7 @@ This data **never leaves your device** on the Developer's initiative and is not 
 
 - Ads exist only in the Android version. The Windows version does not show ads.
 - Ads are mediated by **Unity LevelPlay** (Unity Technologies) and shown by partner ad networks. The Developer does not control the collection carried out by these third parties.
-- When ads are active, the app connects to the internet and these providers may collect and process data such as the Android advertising identifier, IP address, device and system information, and data about ad impressions and interactions (views and clicks). They use this data to deliver and measure ads, to protect them against fraud and, if you consented, to personalize them.
+- When ads are active, the app connects to the internet and these providers may collect and process data such as the Android advertising identifier, IP address and the approximate location estimated from it, device and system information, technical diagnostic data about the ads service, and data about ad impressions and interactions (views and clicks). They use this data to deliver and measure ads, for analytics, to protect ads against fraud and keep them secure and, if you consented, to personalize them.
 - Processing by these providers follows their own policies. Unity (LevelPlay) privacy policy: https://unity.com/legal/privacy-policy
 - Ads may open advertiser pages or app stores outside the app.
 
@@ -159,7 +159,7 @@ You can delete all app data at any time. Since the Developer keeps no data on se
 
 - **Android:** clear the app's storage (Settings > Apps > Damas Evolution > Storage > Clear data) or uninstall the app.
 - **Windows:** uninstalling the app does not remove local data. To delete it, remove the `damas_evolution.sqlite` file from your Documents folder and the `%APPDATA%\dev.leankar\damas_evolution` folder.
-- **Ads:** withdraw your consent in Settings > Ads. To exercise rights over data the ad providers may have collected (such as access, deletion or objection), see their privacy policies (section 4).
+- **Ads:** withdraw your consent in Settings > Ads. The data collected by the ad providers (section 4) is not held by the Developer; to request **access, deletion or objection** for that data, use Unity's privacy channels described at https://unity.com/legal/privacy-policy (and, for US residents, also at https://unity.com/legal/do-not-sell-my-personal-information). If you need help finding the right channel, write to **leankar.dev@gmail.com**. You can also reset or delete the advertising identifier on your device (section 5).
 
 ## 11. Changes to this policy
 
@@ -207,7 +207,7 @@ Estos datos **nunca salen de tu dispositivo** por iniciativa del Desarrollador y
 
 - Los anuncios existen solo en la versión para Android. La versión para Windows no muestra anuncios.
 - Los anuncios están intermediados por **Unity LevelPlay** (Unity Technologies) y los muestran redes publicitarias asociadas. El Desarrollador no controla la recopilación que hacen estos terceros.
-- Cuando los anuncios están activos, la app se conecta a internet y estos proveedores pueden recopilar y tratar datos como el identificador de publicidad de Android, la dirección IP, información del dispositivo y del sistema, y datos sobre la visualización y la interacción con los anuncios (impresiones y clics). Usan estos datos para entregar y medir los anuncios, protegerlos contra el fraude y, si consentiste, personalizarlos.
+- Cuando los anuncios están activos, la app se conecta a internet y estos proveedores pueden recopilar y tratar datos como el identificador de publicidad de Android, la dirección IP y la ubicación aproximada estimada a partir de ella, información del dispositivo y del sistema, datos de diagnóstico técnico del servicio de anuncios y datos sobre la visualización y la interacción con los anuncios (impresiones y clics). Usan estos datos para entregar y medir los anuncios, con fines de análisis, para protegerlos contra el fraude y garantizar la seguridad y, si consentiste, para personalizarlos.
 - El tratamiento que hacen estos proveedores sigue sus propias políticas. Política de privacidad de Unity (LevelPlay): https://unity.com/legal/privacy-policy
 - Los anuncios pueden abrir páginas de anunciantes o tiendas de aplicaciones fuera de la app.
 
@@ -242,7 +242,7 @@ Puedes borrar todos los datos de la app en cualquier momento. Como el Desarrolla
 
 - **Android:** borra el almacenamiento de la app (Ajustes > Aplicaciones > Damas Evolution > Almacenamiento > Borrar datos) o desinstala la aplicación.
 - **Windows:** desinstalar la aplicación no elimina los datos locales. Para borrarlos, elimina el archivo `damas_evolution.sqlite` de tu carpeta Documentos y la carpeta `%APPDATA%\dev.leankar\damas_evolution`.
-- **Anuncios:** retira tu consentimiento en Configuración > Anuncios. Para ejercer derechos sobre datos que los proveedores de anuncios hayan recopilado (como acceso, supresión u oposición), consulta sus políticas de privacidad (sección 4).
+- **Anuncios:** retira tu consentimiento en Configuración > Anuncios. Los datos recopilados por los proveedores de anuncios (sección 4) no los conserva el Desarrollador; por eso, para solicitar **acceso, supresión u oposición** respecto de esos datos, utiliza los canales de privacidad de Unity descritos en https://unity.com/legal/privacy-policy (y, para residentes en EE. UU., también en https://unity.com/legal/do-not-sell-my-personal-information). Si necesitas ayuda para encontrar el canal adecuado, escribe a **leankar.dev@gmail.com**. También puedes restablecer o eliminar el identificador de publicidad de tu dispositivo (sección 5).
 
 ## 11. Cambios en esta política
 
@@ -290,7 +290,7 @@ Questi dati **non lasciano mai il tuo dispositivo** per iniziativa dello Svilupp
 
 - Gli annunci esistono solo nella versione per Android. La versione per Windows non mostra annunci.
 - Gli annunci sono mediati da **Unity LevelPlay** (Unity Technologies) e mostrati da reti pubblicitarie partner. Lo Sviluppatore non controlla la raccolta effettuata da queste terze parti.
-- Quando gli annunci sono attivi, l'app si connette a internet e questi fornitori possono raccogliere e trattare dati come l'identificatore pubblicitario di Android, l'indirizzo IP, informazioni sul dispositivo e sul sistema, e dati sulla visualizzazione e sull'interazione con gli annunci (impressioni e clic). Usano questi dati per erogare e misurare gli annunci, proteggerli dalle frodi e, se hai acconsentito, personalizzarli.
+- Quando gli annunci sono attivi, l'app si connette a internet e questi fornitori possono raccogliere e trattare dati come l'identificatore pubblicitario di Android, l'indirizzo IP e la posizione approssimativa stimata a partire da esso, informazioni sul dispositivo e sul sistema, dati di diagnostica tecnica del servizio pubblicitario e dati sulla visualizzazione e sull'interazione con gli annunci (impressioni e clic). Usano questi dati per erogare e misurare gli annunci, per finalità di analisi, per proteggerli dalle frodi e garantirne la sicurezza e, se hai acconsentito, per personalizzarli.
 - Il trattamento svolto da questi fornitori segue le loro politiche. Informativa sulla privacy di Unity (LevelPlay): https://unity.com/legal/privacy-policy
 - Gli annunci possono aprire pagine di inserzionisti o store di app al di fuori dell'app.
 
@@ -325,7 +325,7 @@ Puoi eliminare tutti i dati dell'app in qualsiasi momento. Poiché lo Sviluppato
 
 - **Android:** cancella l'archiviazione dell'app (Impostazioni > App > Damas Evolution > Archiviazione > Cancella dati) oppure disinstalla l'app.
 - **Windows:** la disinstallazione dell'app non rimuove i dati locali. Per eliminarli, rimuovi il file `damas_evolution.sqlite` dalla cartella Documenti e la cartella `%APPDATA%\dev.leankar\damas_evolution`.
-- **Annunci:** revoca il consenso in Impostazioni > Annunci. Per esercitare i diritti sui dati che i fornitori di annunci possono aver raccolto (come accesso, cancellazione od opposizione), consulta le loro informative sulla privacy (sezione 4).
+- **Annunci:** revoca il consenso in Impostazioni > Annunci. I dati raccolti dai fornitori di annunci (sezione 4) non sono conservati dallo Sviluppatore; per questo, per richiedere **accesso, cancellazione od opposizione** su tali dati, usa i canali privacy di Unity descritti su https://unity.com/legal/privacy-policy (e, per i residenti negli USA, anche su https://unity.com/legal/do-not-sell-my-personal-information). Se hai bisogno di aiuto per trovare il canale giusto, scrivi a **leankar.dev@gmail.com**. Puoi anche reimpostare o eliminare l'identificatore pubblicitario sul tuo dispositivo (sezione 5).
 
 ## 11. Modifiche a questa informativa
 
@@ -373,7 +373,7 @@ Ces données **ne quittent jamais votre appareil** à l'initiative du Développe
 
 - Les publicités n'existent que dans la version Android. La version Windows n'affiche pas de publicités.
 - Les publicités sont intermédiées par **Unity LevelPlay** (Unity Technologies) et affichées par des réseaux publicitaires partenaires. Le Développeur ne contrôle pas la collecte effectuée par ces tiers.
-- Lorsque les publicités sont actives, l'app se connecte à Internet et ces fournisseurs peuvent collecter et traiter des données telles que l'identifiant publicitaire Android, l'adresse IP, des informations sur l'appareil et le système, ainsi que des données sur l'affichage et l'interaction avec les publicités (impressions et clics). Ils utilisent ces données pour diffuser et mesurer les publicités, les protéger contre la fraude et, si vous y avez consenti, les personnaliser.
+- Lorsque les publicités sont actives, l'app se connecte à Internet et ces fournisseurs peuvent collecter et traiter des données telles que l'identifiant publicitaire Android, l'adresse IP et la localisation approximative estimée à partir de celle-ci, des informations sur l'appareil et le système, des données de diagnostic technique du service publicitaire, ainsi que des données sur l'affichage et l'interaction avec les publicités (impressions et clics). Ils utilisent ces données pour diffuser et mesurer les publicités, à des fins d'analyse, pour les protéger contre la fraude et en garantir la sécurité et, si vous y avez consenti, les personnaliser.
 - Le traitement effectué par ces fournisseurs suit leurs propres politiques. Politique de confidentialité d'Unity (LevelPlay) : https://unity.com/legal/privacy-policy
 - Les publicités peuvent ouvrir des pages d'annonceurs ou des boutiques d'applications en dehors de l'app.
 
@@ -408,7 +408,7 @@ Vous pouvez supprimer toutes les données de l'app à tout moment. Comme le Dév
 
 - **Android :** effacez le stockage de l'app (Paramètres > Applications > Damas Evolution > Stockage > Effacer les données) ou désinstallez l'application.
 - **Windows :** la désinstallation de l'application ne supprime pas les données locales. Pour les effacer, supprimez le fichier `damas_evolution.sqlite` de votre dossier Documents et le dossier `%APPDATA%\dev.leankar\damas_evolution`.
-- **Publicités :** retirez votre consentement dans Paramètres > Publicités. Pour exercer vos droits sur les données que les fournisseurs de publicités ont pu collecter (comme l'accès, l'effacement ou l'opposition), consultez leurs politiques de confidentialité (section 4).
+- **Publicités :** retirez votre consentement dans Paramètres > Publicités. Les données collectées par les fournisseurs de publicités (section 4) ne sont pas conservées par le Développeur ; pour demander **l'accès, l'effacement ou l'opposition** concernant ces données, utilisez les canaux de confidentialité d'Unity décrits sur https://unity.com/legal/privacy-policy (et, pour les résidents des États-Unis, aussi sur https://unity.com/legal/do-not-sell-my-personal-information). Si vous avez besoin d'aide pour trouver le bon canal, écrivez à **leankar.dev@gmail.com**. Vous pouvez aussi réinitialiser ou supprimer l'identifiant publicitaire de votre appareil (section 5).
 
 ## 11. Modifications de cette politique
 
